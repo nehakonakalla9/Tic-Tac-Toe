@@ -13,7 +13,7 @@ Play the game online here:
 [Play Tic Tac Toe](https://nehakonakalla9.github.io/Tic-Tac-Toe/)
 
 ## Screenshot
-![Tic Tac Toe Screenshot](tic-tac-toe.jpg)
+![Tic Tac Toe Screenshot](tic-tac-toe.png)
 
 ## Built With
 - HTML  
